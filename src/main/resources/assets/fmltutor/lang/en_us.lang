@@ -1,0 +1,32 @@
+item.fmltutor.dirtBall.name=Dirt Ball
+tile.fmltutor.compressedDirt.name=Compressed Dirt
+itemGroup.fmltutor=FMLTutor Creative Tab Example
+item.fmltutor.dirtPickaxe.name=Dirt Pickaxe
+item.fmltutor.dirtArmor.feet.name=Dirt Boots
+item.fmltutor.dirtArmor.legs.name=Dirt Leggings
+item.fmltutor.dirtArmor.chest.name=Dirt Chestplate
+item.fmltutor.dirtArmor.head.name=Dirt Helmet
+enchantment.fmltutor.explosion=Explosion
+entity.Villager.fmltutor.dirtWorker=Dirt Worker
+effect.fmltutor.dirtProtection=Dirt Protection
+potion.effect.fmltutor.dirtProtection=Dirt Protection Potion
+splash_potion.effect.fmltutor.dirtProtection=Splash Potion of Dirt Protection
+lingering_potion.effect.fmltutor.dirtProtection=Lingering Potion of Dirt Protection
+entity.fmltutor.DirtBallKing.name=Dirt Ball King
+entity.fmltutor.DirtBall.name=Dirt Ball
+entity.fmltutor.FatTiger.name=Fat Tiger
+
+message.fmltutor.welcome=Welcome to §r%s§a, §r%s§a!
+message.fmltutor.power.add.blue=Blue power += §r%.1f
+message.fmltutor.power.add.green=Green power += §r%.1f
+message.fmltutor.power.add.orange=Orange power += §r%.1f
+message.fmltutor.power.insufficient=You do not have enough power
+
+tooltip.fmltutor.power.blue=BLUE  §r%.1f
+tooltip.fmltutor.power.green=GREEN  §r%.1f
+tooltip.fmltutor.power.orange=ORANGE §r%.1f
+
+tile.fmltutor.dirtCompressor.name=Dirt Compressor
+
+
+

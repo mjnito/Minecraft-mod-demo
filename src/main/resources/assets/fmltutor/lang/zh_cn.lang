@@ -1,0 +1,30 @@
+item.fmltutor.dirtBall.name=泥土球
+tile.fmltutor.compressedDirt.name=压缩泥土
+itemGroup.fmltutor=FMLTutor 创造模式物品栏示例
+item.fmltutor.dirtPickaxe.name=泥土镐
+item.fmltutor.dirtArmor.feet.name=泥土靴子
+item.fmltutor.dirtArmor.legs.name=泥土护腿
+item.fmltutor.dirtArmor.chest.name=泥土胸甲
+item.fmltutor.dirtArmor.head.name=泥土头盔
+enchantment.fmltutor.explosion=爆炸
+entity.Villager.fmltutor.dirtWorker=泥土工人
+effect.fmltutor.dirtProtection=泥土的庇护
+potion.effect.fmltutor.dirtProtection=泥土保护药水
+splash_potion.effect.fmltutor.dirtProtection=溅射泥土保护药水
+lingering_potion.effect.fmltutor.dirtProtection=滞留泥土保护药水
+entity.fmltutor.DirtBallKing.name=土球王
+entity.fmltutor.DirtBall.name=泥土球
+entity.fmltutor.FatTiger.name=胖虎
+
+
+message.fmltutor.welcome=欢迎 §r%2$s§a 来到 §r%1$s§a !
+message.fmltutor.power.add.blue=蓝色之力 += §r%.1f
+message.fmltutor.power.add.green=绿色之力 += §r%.1f
+message.fmltutor.power.add.orange=橙色之力 += §r%.1f
+message.fmltutor.power.insufficient=你拥有的力量还不够多
+
+tooltip.fmltutor.power.blue=蓝色  §r%.1f
+tooltip.fmltutor.power.green=绿色  §r%.1f
+tooltip.fmltutor.power.orange=橙色  §r%.1f
+
+tile.fmltutor.dirtCompressor.name=泥土压缩机
